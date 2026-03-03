@@ -31,7 +31,7 @@ This repository contains the frontend implementation of the Fenrir B2B SaaS Secu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/code0era/Fenrir_SPL.git
+   git clone https://github.com/Adityakk9031/Fenrir_SPL.git
    cd Fenrir_SPL
    ```
 
